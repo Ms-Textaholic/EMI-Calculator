@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 //Toast.makeText(MainActivity.this, String.valueOf(intrest), Toast.LENGTH_SHORT).show();
             }
         });
-        // toolbar.setSubtitle("Made By Nilesh Teji");
+        // toolbar.setSubtitle("Made By Yashasvini");
         toolbar.setTitle("Emi Calculator");
         toolbar.setTitleTextColor(Color.WHITE);
         toolbar.setSubtitle("Made By Yashasvini");
